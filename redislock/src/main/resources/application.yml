@@ -1,0 +1,30 @@
+# 应用名称
+spring:
+  application:
+    name: redislock
+  redis:
+    database: 0
+    host: localhost
+    port: 6379
+    lettuce:
+      shutdown-timeout: 1000
+
+
+
+
+server:
+  port: 8080
+
+
+
+
+
+
+
+
+
+
+
+
+
+

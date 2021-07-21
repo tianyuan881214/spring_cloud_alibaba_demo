@@ -11,10 +11,8 @@
         <module name="spring_cloud_alibaba_demo" />
         <module name="nacos_client_demo1" />
         <module name="demo" />
+        <module name="redislock" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="demo" target="1.8" />
-    </bytecodeTargetLevel>
   </component>
 </project>
